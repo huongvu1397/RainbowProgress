@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="SeekbarHint">
+        <attr name="hint_text_color" format="color"/>
+        <attr name="hint_text_size" format="dimension"/>
+        <attr name="hint_trigger_width" format="dimension"/>
+        <attr name="hint_trigger_src" format="reference"/>
+
+    </declare-styleable>
+
+    <declare-styleable name="RainbowSeekbar">
+        <attr name="rainbow_progress" format="integer"/>
+        <attr name="rainbow_trigger_src" format="reference"/>
+        <attr name="rainbow_trigger_width" format="integer"/>
+    </declare-styleable>
+</resources>
